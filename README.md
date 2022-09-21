@@ -5,6 +5,6 @@
 - 📫 How to reach me abdul.806@yahoo.com...
 
 <!---
-AbdulHadi806/AbdulHadi806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AbdulHadi806/AbdulHadi806 is a HTML/CSS, Js, React developer. He is currently working at IPLEX as an Intern for the past 
++4 months. He is fast and pashinate and he loves to learn more. 
 --->
