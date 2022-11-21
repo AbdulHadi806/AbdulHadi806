@@ -11,8 +11,8 @@ AbdulHadi806/AbdulHadi806 is a HTML/CSS, Js, React developer. He is currently wo
 +4 months. He is fast and pashinate and he loves to learn more. 
 --->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/abdul-hadi-kamran-a03a5124b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdul-hadi-kamran-a03a5124b" height="30" width="40" /></a>
+<p style="display:block" align="left"> My username of linkdlen if link fails: Abdul Hadi kamran
+<a style="display:block" href="linkedin.com/in/abdul-hadi-kamran-a03a5124b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdul-hadi-kamran-a03a5124b" height="30" width="40" /></a>
 </p>
 
 
