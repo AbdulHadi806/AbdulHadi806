@@ -7,8 +7,7 @@
 - 📫 How to reach me abdul.806@yahoo.com...
 
 <!---
-AbdulHadi806/AbdulHadi806 is a HTML/CSS, Js, React developer. He is currently working at IPLEX as an Intern for the past 
-+4 months. He is fast and pashinate and he loves to learn more. 
+AbdulHadi806/AbdulHadi806 is a full-stack developer with a deep interest in Machine Learning. He is currently working at IPLEX as a full-stack developer and he loves creating open-source machine learning and deep learning models. He is fast and passionate and he loves to learn. 
 --->
 
 <h3 align="left">Connect with me:</h3>
@@ -17,12 +16,13 @@ AbdulHadi806/AbdulHadi806 is a HTML/CSS, Js, React developer. He is currently wo
 </p>
 
 <h3 align="left">Technologies I work with:</h3>
+
 - JavaScript
-- Mernstack
-- NextJS
+- MERN Stack
+- Next.js
 - Python
 - Django
 - Machine Learning
 - Deep Learning
 
-- ⚡ My Moto **Keep everything open source**
+- ⚡ My Motto: **Keep everything open source**
