@@ -12,7 +12,7 @@ AbdulHadi806/AbdulHadi806 is a full-stack developer with a deep interest in Mach
 
 <h3 align="left">Connect with me:</h3>
 <p style="display:flex;gap:10px" align="left">
-<a style="display:block" href="https://www.linkedin.com/in/abdul-haadi-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-haadi-fullstack/" height="30" width="40" /></a>
+<a style="width:20px" href="https://www.linkedin.com/in/abdul-haadi-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-haadi-fullstack/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies I work with:</h3>
