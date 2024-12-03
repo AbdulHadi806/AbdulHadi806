@@ -1,28 +1,32 @@
 <img width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 👋 Hi, I’m Abdul Haadi
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently working as a Fullstack Developer...
-- 💞️ I’m looking to collaborate on AI/ML/Chatbots/web development...
-- 📫 How to reach me abdul.806@yahoo.com...
+# 👋 Hi, I’m Abdul Haadi
 
-<!---
-AbdulHadi806/AbdulHadi806 is a full-stack developer with a deep interest in Machine Learning. He is currently working at IPLEX as a full-stack developer and he loves creating open-source machine learning and deep learning models. He is fast and passionate and he loves to learn. 
---->
+Welcome to my GitHub! I'm one of Pakistan's youngest certified software engineers, machine learning enthusiasts, and entrepreneurs. I'm passionate about leveraging technology to create impactful solutions.
 
-<h3 align="left">Connect with me:</h3>
+## 👀 About Me:
+- 🎯 I’m interested in AI/ML, full-stack development, and chatbots.
+- 🌱 Currently working as a **Full-stack Developer** and building **AI-powered applications**.
+- 💡 I love contributing to open-source projects and sharing knowledge.
+- 📫 Reach me at: **abdul.806@yahoo.com**.
+- ⚡ Motto: **Keep everything open source!**
+
+## 💻 Technologies I Work With:
+- **Programming Languages:** JavaScript, Python
+- **Frameworks:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, Django
+- **AI/ML:** Machine Learning, Deep Learning, Chatbot Development
+- **Tools & Platforms:** Firebase, Docker, Git, VS Code
+
+## 🌐 Connect with Me:
+<h3 align="left">Let's Collaborate!</h3>
 <p style="display:flex;gap:10px" align="left">
-<a style="width:20px" href="https://www.linkedin.com/in/abdul-haadi-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-haadi-fullstack/" height="20" width="20" /></a>
+<a style="width:20px" href="https://www.linkedin.com/in/abdul-haadi-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Haadi LinkedIn" height="20" width="20" /></a>
 </p>
 
-<h3 align="left">Technologies I work with:</h3>
+## 🚀 Current Goals:
+- Building **AI-powered tools** to solve real-world problems.
+- Exploring innovations in **Generative AI** and **SEO optimization tools**.
+- Enhancing my knowledge in **aerospace technologies** through AI integration.
 
-- JavaScript
-- MERN Stack
-- Next.js
-- Python
-- Django
-- Machine Learning
-- Deep Learning
-
-- ⚡ My Motto: **Keep everything open source**
+---
+Thank you for visiting my GitHub! Feel free to connect and collaborate. Let's build something amazing together! 🚀
