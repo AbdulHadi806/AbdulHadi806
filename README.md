@@ -18,10 +18,12 @@ Welcome to my GitHub! I'm one of Pakistan's youngest certified software engineer
 - **Tools & Platforms:** Firebase, Docker, Git, VS Code
 
 ## 🌐 Connect with Me:
-<h3 align="left">Let's Collaborate!</h3>
-<p style="display:flex;gap:10px" align="left">
-<a style="width:20px" href="https://www.linkedin.com/in/abdul-haadi-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Haadi LinkedIn" height="20" width="20" /></a>
-</p>
+<div style="display:flex; gap:10px; align-items:center;">
+  <h3 align="left">Let's Collaborate!</h3>
+  <p style="display:flex; gap:10px; align-items:center;">
+    <a style="width:20px" href="https://www.linkedin.com/in/abdul-haadi-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Haadi LinkedIn" height="20" width="20" /></a>
+  </p>
+</div>
 
 ## 🚀 Current Goals:
 - Building **AI-powered tools** to solve real-world problems.
