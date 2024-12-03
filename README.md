@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm one of Pakistan's youngest certified software engineer
 
 ## 🚀 Current Goals:
 - Building **AI-powered tools** to solve real-world problems.
-- Exploring innovations in **Generative AI** and **SEO optimization tools**.
-- Enhancing my knowledge in **aerospace technologies** through AI integration.
+- Exploring innovations in **Generative AI** and **Software Development**.
+- Making $100k a year by the end of next year.
 
 ---
 Thank you for visiting my GitHub! Feel free to connect and collaborate. Let's build something amazing together! 🚀
